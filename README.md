@@ -2,7 +2,7 @@
 
 # Genshin Impact Instrument SoundFonts
 
-**English** · [Chinese](README.zh-CN.md)
+**English** · [简体中文](README.zh-CN.md)
 
 Bring the sounds of Teyvat to your MIDI keyboard. A collection of Genshin Impact instruments and Vodyanitsa vocals in **SoundFont 2 / `.sf2`** format.
 
