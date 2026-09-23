@@ -6,7 +6,7 @@
 
 Bring the sounds of Teyvat to your MIDI keyboard. A collection of Genshin Impact instruments and Vodyanitsa vocals in **SoundFont 2 / `.sf2`** format.
 
-**[Download all SoundFonts · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip)** · [Release notes](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/latest) · [MIDI key maps](docs/MIDI-Mapping.md) · [Browse files](soundfonts)
+**[Download all SoundFonts · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip)** · [Release notes](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/latest) · [MIDI key maps](docs/MIDI-Mapping.md) · [Browse files](soundfonts)
 
 | Collection | Full MIDI range | Original with chords | Percussion | Uncompressed audio files |
 | :---: | :---: | :---: | :---: | :---: |
@@ -49,17 +49,17 @@ Click a filename to download that individual `.sf2` file.
 
 | Download SoundFont | Size |
 | :--- | ---: |
-| [Arataki's Great and Glorious Drum.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Arataki%27s%20Great%20and%20Glorious%20Drum.sf2) | 78.6 KiB |
+| [Arataki's Great and Glorious Drum.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Arataki%27s%20Great%20and%20Glorious%20Drum.sf2) | 78.7 KiB |
 | [Djem Djem Drum.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Djem%20Djem%20Drum.sf2) | 1.88 MiB |
 
 ## Getting started
 
-1. Download an individual `.sf2` above or the [complete ZIP package](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip), then extract the ZIP if needed.
+1. Download an individual `.sf2` above or the [complete ZIP package](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip), then extract the ZIP if needed.
 2. Load the `.sf2` in a SoundFont-compatible synthesizer, sampler, or music application.
 3. Select its preset and route your MIDI keyboard or MIDI track to it.
 4. For the original-with-chords versions and drums, use the mapped notes in the [MIDI reference](docs/MIDI-Mapping.md).
 
-**Preset selection:** all supplied files use bank **0**. `Ukulele (Original with Chords).sf2` uses program **1**; every other file uses program **0**. These are zero-based values. A player that counts from 1 may display them as programs **2** and **1**, respectively.
+**Preset selection:** all SoundFonts use bank **0**, program **0**. A player that numbers programs from 1 may display the preset as program **1**.
 
 If a key is silent, check the selected preset and the file's mapped notes above.
 
@@ -75,8 +75,8 @@ git clone https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFo
 
 ## File integrity and credits
 
-All 13 SoundFonts preserve the supplied sample data, presets, and embedded metadata. [SHA256SUMS.txt](SHA256SUMS.txt) lists file checksums; [catalog.json](catalog.json) provides names, versions, sizes, and MIDI mapping information.
+All 13 SoundFonts retain their original audio samples and note mappings. [SHA256SUMS.txt](SHA256SUMS.txt) lists file checksums; [catalog.json](catalog.json) provides names, versions, sizes, and MIDI mapping information.
 
-Collection maintained by [StarryCosmosPiano](https://github.com/StarryCosmosPiano). Original game audio: **Genshin Impact / HoYoverse / miHoYo**. Embedded author fields in the supplied SoundFonts credit **StarryCosmos** and **Best**; those credits remain in the files.
+SoundFonts by **StarryCosmos** ([GitHub](https://github.com/StarryCosmosPiano)). Original game audio: **Genshin Impact / HoYoverse / miHoYo**.
 
 Found a broken download or a mapping issue? [Open an issue](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/issues) with the filename, application, and MIDI note number.

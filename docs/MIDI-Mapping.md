@@ -8,10 +8,9 @@ These mappings were read from the supplied `.sf2` preset and sample zones. MIDI 
 
 | File | Bank | Program, zero-based |
 | :--- | ---: | ---: |
-| Ukulele (Original with Chords).sf2 | 0 | 1 |
-| All other files | 0 | 0 |
+| All SoundFonts | 0 | 0 |
 
-If your application numbers programs from 1, select program 2 for the chord Ukulele and program 1 for the other files.
+If your application numbers programs from 1, select program 1 for every file.
 
 ## Full range
 
