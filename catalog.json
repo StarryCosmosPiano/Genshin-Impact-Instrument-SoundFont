@@ -1,0 +1,465 @@
+{
+  "format": "SoundFont 2",
+  "collection": "Genshin Impact Instrument SoundFonts",
+  "file_count": 13,
+  "total_size_bytes": 239810458,
+  "program_numbering": "zero-based",
+  "files": [
+    {
+      "filename": "Windsong Lyre.sf2",
+      "name_en": "Windsong Lyre",
+      "name_zh_cn": "风物之诗琴",
+      "variant": "full-range",
+      "original_filename": "风物琴（全音域）.sf2",
+      "path": "soundfonts/Windsong Lyre.sf2",
+      "size_bytes": 11845492,
+      "sha256": "27e348b6c0aeeb0b24dee4bc78a790bb7152e438174ee2a83c31046798041fbc",
+      "presets": [
+        {
+          "name": "Windsong Lyre",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Floral Zither.sf2",
+      "name_en": "Floral Zither",
+      "name_zh_cn": "镜花之琴",
+      "variant": "full-range",
+      "original_filename": "镜花之琴（全音域）.sf2",
+      "path": "soundfonts/Floral Zither.sf2",
+      "size_bytes": 26962086,
+      "sha256": "7018d79215624ebc8e9f693246d7ad02f0e7b0f6762495288a365655f388391a",
+      "presets": [
+        {
+          "name": "Floral Zither",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Vintage Lyre.sf2",
+      "name_en": "Vintage Lyre",
+      "name_zh_cn": "老旧的诗琴",
+      "variant": "full-range",
+      "original_filename": "老旧的诗琴（全音域）.sf2",
+      "path": "soundfonts/Vintage Lyre.sf2",
+      "size_bytes": 72441338,
+      "sha256": "e03a632f3ff34d8d1c6c097d5328d862f491c1515639384204b7b4a7b6a06927",
+      "presets": [
+        {
+          "name": "Vintage Lyre",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Nightwind Horn.sf2",
+      "name_en": "Nightwind Horn",
+      "name_zh_cn": "晚风圆号",
+      "variant": "full-range",
+      "original_filename": "晚风圆号（全音域）.sf2",
+      "path": "soundfonts/Nightwind Horn.sf2",
+      "size_bytes": 32902378,
+      "sha256": "36803e0a8c4e052323012f4c1520541a6bf2d43e2d8a00ea61f548ecf3f36e58",
+      "presets": [
+        {
+          "name": "Nightwind Horn",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Ukulele.sf2",
+      "name_en": "Ukulele",
+      "name_zh_cn": "悠可琴／尤克里里",
+      "variant": "full-range",
+      "original_filename": "Ukulele.sf2",
+      "path": "soundfonts/Ukulele.sf2",
+      "size_bytes": 7213128,
+      "sha256": "d803975fabc9a1f2f0b8c47bd29a9c099caf5e3e9fcc1df843a71a5475039541",
+      "presets": [
+        {
+          "name": "Ukulele",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Lingering Euphonia.sf2",
+      "name_en": "Lingering Euphonia",
+      "name_zh_cn": "「余音」",
+      "variant": "full-range",
+      "original_filename": "「余音」（全音域）.sf2",
+      "path": "soundfonts/Lingering Euphonia.sf2",
+      "size_bytes": 9766668,
+      "sha256": "96719b7ad362b003f33905b3b797fe750bb69691fd1d88ada1a74b9a3c55cbc6",
+      "presets": [
+        {
+          "name": "Lingering Euphonia",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Leaping Spirit Piano.sf2",
+      "name_en": "Leaping Spirit Piano",
+      "name_zh_cn": "跃律琴",
+      "variant": "full-range",
+      "original_filename": "跃律琴 (全音域).sf2",
+      "path": "soundfonts/Leaping Spirit Piano.sf2",
+      "size_bytes": 17026996,
+      "sha256": "64a2710a088acb66811f2cb2763316603e36d87a2219b349cde9029d45fed0f5",
+      "presets": [
+        {
+          "name": "Leaping Spirit Piano",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Harmonic Keys.sf2",
+      "name_en": "Harmonic Keys",
+      "name_zh_cn": "谐律键琴",
+      "variant": "full-range",
+      "original_filename": "谐律钢琴（全音域）.sf2",
+      "path": "soundfonts/Harmonic Keys.sf2",
+      "size_bytes": 19413530,
+      "sha256": "39d032f712ddf83abd99fe9c20fa1ff8622fb02021709edb97374b1772794b5c",
+      "presets": [
+        {
+          "name": "Harmonic Keys",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Vodyanitsa.sf2",
+      "name_en": "Vodyanitsa",
+      "name_zh_cn": "沃雅妮莎人声",
+      "variant": "full-range",
+      "original_filename": "沃雅妮莎（全音域）.sf2",
+      "path": "soundfonts/Vodyanitsa.sf2",
+      "size_bytes": 19286534,
+      "sha256": "b122db3c473877e2930340e0831cce892478b977a12d85f7dbd27df4a1f978f7",
+      "presets": [
+        {
+          "name": "Vodyanitsa",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              0,
+              127
+            ]
+          ],
+          "key_count": 128
+        }
+      ]
+    },
+    {
+      "filename": "Lingering Euphonia (Original with Chords).sf2",
+      "name_en": "Lingering Euphonia",
+      "name_zh_cn": "「余音」",
+      "variant": "original-with-chords",
+      "original_filename": "「余音」(带和弦).sf2",
+      "path": "soundfonts/Lingering Euphonia (Original with Chords).sf2",
+      "size_bytes": 9766940,
+      "sha256": "256b523a2082ac55ed5cf42afdc2c39c22e4e751ba90c3871b6880962e1b52fe",
+      "presets": [
+        {
+          "name": "Lingering Euphonia",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              48,
+              48
+            ],
+            [
+              50,
+              50
+            ],
+            [
+              52,
+              53
+            ],
+            [
+              55,
+              55
+            ],
+            [
+              57,
+              57
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              62,
+              62
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              67,
+              67
+            ],
+            [
+              69,
+              69
+            ],
+            [
+              71,
+              72
+            ],
+            [
+              74,
+              74
+            ],
+            [
+              76,
+              77
+            ],
+            [
+              79,
+              79
+            ],
+            [
+              81,
+              81
+            ],
+            [
+              83,
+              83
+            ]
+          ],
+          "key_count": 21
+        }
+      ]
+    },
+    {
+      "filename": "Ukulele (Original with Chords).sf2",
+      "name_en": "Ukulele",
+      "name_zh_cn": "悠可琴／尤克里里",
+      "variant": "original-with-chords",
+      "original_filename": "Ukulele (带和弦).sf2",
+      "path": "soundfonts/Ukulele (Original with Chords).sf2",
+      "size_bytes": 11132198,
+      "sha256": "56ad894db166ff2df9636952c922b12f8d4d95bd5fc230da09fb1ee6f78e4f5b",
+      "presets": [
+        {
+          "name": "Ukulele Chord",
+          "program": 1,
+          "bank": 0,
+          "key_ranges": [
+            [
+              60,
+              60
+            ],
+            [
+              62,
+              62
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              67,
+              67
+            ],
+            [
+              69,
+              69
+            ],
+            [
+              71,
+              72
+            ],
+            [
+              74,
+              74
+            ],
+            [
+              76,
+              77
+            ],
+            [
+              79,
+              79
+            ],
+            [
+              81,
+              81
+            ],
+            [
+              83,
+              84
+            ],
+            [
+              86,
+              86
+            ],
+            [
+              88,
+              89
+            ],
+            [
+              91,
+              91
+            ],
+            [
+              93,
+              93
+            ],
+            [
+              95,
+              95
+            ]
+          ],
+          "key_count": 21
+        }
+      ]
+    },
+    {
+      "filename": "Arataki's Great and Glorious Drum.sf2",
+      "name_en": "Arataki's Great and Glorious Drum",
+      "name_zh_cn": "荒泷・盛世豪鼓",
+      "variant": "percussion",
+      "original_filename": "Arataki's Great and Glorious Drum.sf2",
+      "path": "soundfonts/Arataki's Great and Glorious Drum.sf2",
+      "size_bytes": 80534,
+      "sha256": "21efcd635fee18979b59ca76ddac2e8fe96bf200b80729e3a9cbf557de1faef2",
+      "presets": [
+        {
+          "name": "Arataki's Drum",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              60,
+              60
+            ],
+            [
+              62,
+              62
+            ]
+          ],
+          "key_count": 2
+        }
+      ]
+    },
+    {
+      "filename": "Djem Djem Drum.sf2",
+      "name_en": "Djem Djem Drum",
+      "name_zh_cn": "聚聚鼓",
+      "variant": "percussion",
+      "original_filename": "Djem Djem Drum.sf2",
+      "path": "soundfonts/Djem Djem Drum.sf2",
+      "size_bytes": 1972636,
+      "sha256": "a7bf6ea93cacfa16f88bc1426b66c4feb9c61acb3d9331c115447a7808824353",
+      "presets": [
+        {
+          "name": "Djem Djem Drum",
+          "program": 0,
+          "bank": 0,
+          "key_ranges": [
+            [
+              60,
+              60
+            ],
+            [
+              62,
+              62
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              72,
+              72
+            ],
+            [
+              74,
+              74
+            ],
+            [
+              76,
+              77
+            ]
+          ],
+          "key_count": 8
+        }
+      ]
+    }
+  ]
+}

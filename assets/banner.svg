@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Genshin Impact Instrument SoundFonts</title>
+  <desc id="desc">A deep blue banner with gold constellations and piano keys. From Teyvat to your keyboard.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1d2c"/><stop offset="1" stop-color="#183d4b"/></linearGradient>
+    <linearGradient id="key" x2="0" y2="1"><stop stop-color="#f9f3df"/><stop offset="1" stop-color="#d8dddb"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#2f7b83" stop-opacity=".32"/><stop offset="1" stop-color="#2f7b83" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  <ellipse cx="990" cy="120" rx="290" ry="225" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#c4b17c" stroke-opacity=".25"/>
+  <path d="M778 91 L841 55 L922 108 L1030 63 L1126 117 L1155 49 M841 55 L829 145 L922 108" fill="none" stroke="#cdbc8c" stroke-opacity=".35"/>
+  <g fill="#d9c58c">
+    <circle cx="778" cy="91" r="2"/><circle cx="841" cy="55" r="3"/><circle cx="922" cy="108" r="2.5"/><circle cx="1030" cy="63" r="3"/><circle cx="1126" cy="117" r="2"/><circle cx="1155" cy="49" r="2"/><circle cx="829" cy="145" r="2"/>
+    <path d="M1045 118 l3 9 9 3 -9 3 -3 9 -3 -9 -9 -3 9 -3z"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="52" fill="#c8b680" font-size="13" letter-spacing="3">STARRYCOSMOSPIANO / SF2 LIBRARY</text>
+    <text x="54" y="115" fill="#eadbb0" font-size="30" letter-spacing="4">GENSHIN IMPACT</text>
+    <text x="52" y="178" fill="#f5f4e9" font-size="48" font-weight="600" letter-spacing="-1">Instrument SoundFonts</text>
+    <path d="M56 207 H696" stroke="#cdbc8c" stroke-opacity=".35"/>
+    <text x="56" y="248" fill="#c1d4d8" font-size="21">From Teyvat to your keyboard.</text>
+    <text x="56" y="291" fill="#91b5bd" font-size="13" letter-spacing="2">FULL MIDI RANGE · ORIGINAL CHORDS · PERCUSSION</text>
+  </g>
+  <rect x="792" y="170" width="356" height="137" rx="9" fill="#0b1a28" stroke="#8d967f" stroke-opacity=".5"/>
+  <rect x="805" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="835" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="865" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="895" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="925" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="955" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="985" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="1015" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="1045" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="1075" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+<rect x="1105" y="182" width="28" height="112" rx="4" fill="url(#key)"/>
+  <rect x="825" y="182" width="17" height="69" rx="3" fill="#142638" stroke="#3c5062"/>
+<rect x="855" y="182" width="17" height="69" rx="3" fill="#142638" stroke="#3c5062"/>
+<rect x="915" y="182" width="17" height="69" rx="3" fill="#142638" stroke="#3c5062"/>
+<rect x="945" y="182" width="17" height="69" rx="3" fill="#142638" stroke="#3c5062"/>
+<rect x="975" y="182" width="17" height="69" rx="3" fill="#142638" stroke="#3c5062"/>
+<rect x="1035" y="182" width="17" height="69" rx="3" fill="#142638" stroke="#3c5062"/>
+<rect x="1065" y="182" width="17" height="69" rx="3" fill="#142638" stroke="#3c5062"/>
+</svg>
