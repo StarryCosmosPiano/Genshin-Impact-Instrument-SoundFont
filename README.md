@@ -6,7 +6,7 @@
 
 Bring the sounds of Teyvat to your MIDI keyboard. A collection of Genshin Impact instruments and Vodyanitsa vocals in **SoundFont 2 / `.sf2`** format.
 
-**[Download all SoundFonts · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip)** · [Release notes](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/latest) · [MIDI key maps](docs/MIDI-Mapping.md) · [Browse files](soundfonts)
+**[Download all SoundFonts · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip)** · [Release notes](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/latest) · [MIDI key maps](docs/MIDI-Mapping.md) · [Browse files](soundfonts)
 
 | Collection | Full MIDI range | Original with chords | Percussion | Uncompressed audio files |
 | :---: | :---: | :---: | :---: | :---: |
@@ -54,7 +54,7 @@ Click a filename to download that individual `.sf2` file.
 
 ## Getting started
 
-1. Download an individual `.sf2` above or the [complete ZIP package](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip), then extract the ZIP if needed.
+1. Download an individual `.sf2` above or the [complete ZIP package](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip), then extract the ZIP if needed.
 2. Load the `.sf2` in a SoundFont-compatible synthesizer, sampler, or music application.
 3. Select its preset and route your MIDI keyboard or MIDI track to it.
 4. For the original-with-chords versions and drums, use the mapped notes in the [MIDI reference](docs/MIDI-Mapping.md).

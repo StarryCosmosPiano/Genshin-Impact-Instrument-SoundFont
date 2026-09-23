@@ -6,7 +6,7 @@
 
 把提瓦特的声音带到 MIDI 键盘上。本仓库收录原神乐器与沃雅妮莎人声的 **SoundFont 2 / `.sf2`** 音源。
 
-**[下载全部音源 · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip)** · [版本说明](docs/Release-Notes.zh-CN.md) · [MIDI 按键与和弦表](docs/MIDI-Mapping.zh-CN.md) · [浏览文件](soundfonts)
+**[下载全部音源 · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip)** · [版本说明](docs/Release-Notes.zh-CN.md) · [MIDI 按键与和弦表](docs/MIDI-Mapping.zh-CN.md) · [浏览文件](soundfonts)
 
 | 音源文件 | 全音域版本 | 原版带和弦版本 | 鼓音源 | 音源文件解压后大小 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -54,7 +54,7 @@
 
 ## 使用方法
 
-1. 从上表下载单个 `.sf2` 文件，或下载 [完整 ZIP 音源包](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip) 并解压。
+1. 从上表下载单个 `.sf2` 文件，或下载 [完整 ZIP 音源包](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip) 并解压。
 2. 在支持 SoundFont 的合成器、采样器或音乐软件中载入 `.sf2` 文件。
 3. 选择音源预设，将 MIDI 键盘或 MIDI 轨道连接到该音源。
 4. 使用原版带和弦版本或鼓音源时，按照 [MIDI 按键与和弦表](docs/MIDI-Mapping.zh-CN.md) 演奏。
