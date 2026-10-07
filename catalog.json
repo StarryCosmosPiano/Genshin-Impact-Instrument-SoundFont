@@ -2,7 +2,7 @@
   "format": "SoundFont 2",
   "collection": "Genshin Impact Instrument SoundFonts",
   "file_count": 13,
-  "total_size_bytes": 239810504,
+  "total_size_bytes": 239812802,
   "program_numbering": "zero-based",
   "files": [
     {
@@ -203,8 +203,8 @@
       "name_zh_cn": "沃雅妮莎",
       "variant": "full-range",
       "path": "soundfonts/Vodyanitsa.sf2",
-      "size_bytes": 19286534,
-      "sha256": "b122db3c473877e2930340e0831cce892478b977a12d85f7dbd27df4a1f978f7",
+      "size_bytes": 19288832,
+      "sha256": "ec36a63c5a14ceec542d4515c3b45d23eb10580502ed192d9c4d7c40dd4f4059",
       "presets": [
         {
           "name": "Vodyanitsa",

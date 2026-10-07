@@ -1,6 +1,14 @@
 # 发布说明
 
-[返回音源目录](../README.zh-CN.md) · [GitHub Release](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/tag/v1.0.0)
+[返回音源目录](../README.zh-CN.md) · [GitHub Release](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/tag/v1.0.1)
+
+## v1.0.1 · 2026-10-07
+
+- 更新沃雅妮莎音源 `Vodyanitsa.sf2`。
+- 覆盖全部 MIDI 按键 0–127，使用 **Bank 0、Program 0**。
+- 更新完整音源包及 SHA-256 校验清单。
+
+[下载沃雅妮莎音源](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Vodyanitsa.sf2) · [下载完整音源包](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip)
 
 ## v1.0.0
 

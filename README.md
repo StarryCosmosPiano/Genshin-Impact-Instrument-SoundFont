@@ -7,7 +7,7 @@
 
 把提瓦特的声音带到 MIDI 键盘上。本仓库收录原神乐器与沃雅妮莎人声的 **SoundFont 2 / `.sf2`** 音源。
 
-**[下载全部音源 · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip)** · [版本说明](docs/Release-Notes.zh-CN.md) · [MIDI 按键与和弦表](docs/MIDI-Mapping.zh-CN.md) · [浏览文件](soundfonts)
+**[下载全部音源 · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip)** · [版本说明](docs/Release-Notes.zh-CN.md) · [MIDI 按键与和弦表](docs/MIDI-Mapping.zh-CN.md) · [浏览文件](soundfonts)
 
 | 音源文件 | 全音域版本 | 原版带和弦版本 | 鼓音源 | 音源文件解压后大小 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -37,7 +37,7 @@
 | [Lingering Euphonia.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Lingering%20Euphonia.sf2) | 「余音」 | 9.31 MiB |
 | [Leaping Spirit Piano.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Leaping%20Spirit%20Piano.sf2) | 跃律琴 | 16.24 MiB |
 | [Harmonic Keys.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Harmonic%20Keys.sf2) | 谐律键琴 | 18.51 MiB |
-| [Vodyanitsa.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Vodyanitsa.sf2) | 沃雅妮莎 | 18.39 MiB |
+| [Vodyanitsa.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Vodyanitsa.sf2) | 沃雅妮莎 | 18.40 MiB |
 
 ### 原版带和弦 · Original with Chords
 
@@ -55,7 +55,7 @@
 
 ## 使用方法
 
-1. 从上表下载单个 `.sf2` 文件，或下载 [完整 ZIP 音源包](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip) 并解压。
+1. 从上表下载单个 `.sf2` 文件，或下载 [完整 ZIP 音源包](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip) 并解压。
 2. 在支持 SoundFont 的合成器、采样器或音乐软件中载入 `.sf2` 文件。
 3. 选择音源预设，将 MIDI 键盘或 MIDI 轨道连接到该音源。
 4. 使用原版带和弦版本或鼓音源时，按照 [MIDI 按键与和弦表](docs/MIDI-Mapping.zh-CN.md) 演奏。
@@ -91,7 +91,7 @@ git clone https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFo
 
 Bring the sounds of Teyvat to your MIDI keyboard. A collection of Genshin Impact instruments and Vodyanitsa vocals in **SoundFont 2 / `.sf2`** format.
 
-**[Download all SoundFonts · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip)** · [Release notes](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/latest) · [MIDI key maps](docs/MIDI-Mapping.md) · [Browse files](soundfonts)
+**[Download all SoundFonts · ZIP](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip)** · [Release notes](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/latest) · [MIDI key maps](docs/MIDI-Mapping.md) · [Browse files](soundfonts)
 
 | Collection | Full MIDI range | Original with chords | Percussion | Uncompressed audio files |
 | :---: | :---: | :---: | :---: | :---: |
@@ -121,7 +121,7 @@ Click a filename to download that individual `.sf2` file.
 | [Lingering Euphonia.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Lingering%20Euphonia.sf2) | 9.31 MiB |
 | [Leaping Spirit Piano.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Leaping%20Spirit%20Piano.sf2) | 16.24 MiB |
 | [Harmonic Keys.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Harmonic%20Keys.sf2) | 18.51 MiB |
-| [Vodyanitsa.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Vodyanitsa.sf2) | 18.39 MiB |
+| [Vodyanitsa.sf2](https://raw.githubusercontent.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/main/soundfonts/Vodyanitsa.sf2) | 18.40 MiB |
 
 ### Original with chords
 
@@ -139,7 +139,7 @@ Click a filename to download that individual `.sf2` file.
 
 ## Getting started
 
-1. Download an individual `.sf2` above or the [complete ZIP package](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.0/Genshin-Impact-Instrument-SoundFonts-v1.0.0.zip), then extract the ZIP if needed.
+1. Download an individual `.sf2` above or the [complete ZIP package](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont/releases/download/v1.0.1/Genshin-Impact-Instrument-SoundFonts-v1.0.1.zip), then extract the ZIP if needed.
 2. Load the `.sf2` in a SoundFont-compatible synthesizer, sampler, or music application.
 3. Select its preset and route your MIDI keyboard or MIDI track to it.
 4. For the original-with-chords versions and drums, use the mapped notes in the [MIDI reference](docs/MIDI-Mapping.md).
